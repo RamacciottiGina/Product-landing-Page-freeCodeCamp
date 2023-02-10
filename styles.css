@@ -50,10 +50,6 @@ a {
 
   }
 
-#submit {
-  display: inline; }
-
-
   @media (max-width: 650px) {
     .logo {
       margin-top: 15px;
